@@ -21,7 +21,7 @@ VSCode, Git, Github, Diagram.net, HeidiSQL
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) 
 ## Estrutura de pastas
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.ibb.co/FbSwFq0/estrutura-de-pasta-motor-deal.png)
 
 ## Telas do software
 
