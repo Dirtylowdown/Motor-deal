@@ -29,3 +29,8 @@ VSCode, Git, Github, Diagram.net, HeidiSQL
 
 ![App Screenshot](https://i.ibb.co/0Yvc9Kr/backend.png)
 
+## Telas de Cadastro (CRUD) - Front-end e back-end
+
+![App Screenshot](https://i.ibb.co/BVzf2xh/Front-cadastro.png)
+
+![App Screenshot](https://i.ibb.co/H7xXkFZ/back-cadastro.png)
