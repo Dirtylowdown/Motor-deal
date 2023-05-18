@@ -23,17 +23,17 @@ VSCode, Git, Github, Diagram.net, HeidiSQL
 ## Estrutura das Pastas usadas
 ![App Screenshot](https://i.ibb.co/FbSwFq0/estrutura-de-pasta-motor-deal.png)
 
-## Telas de login - Front-end e back-end
-- codigo da tela de login
+## Tela de login
+- Front-End da tela de login
 ![App Screenshot](https://i.ibb.co/HFw3nNR/carbon-1.png)
 
-- codigo do back-end do login
+- Back-End da tela de login
 ![App Screenshot](https://i.ibb.co/0Yvc9Kr/backend.png)
 
 ## Telas de Cadastro (CRUD) - Front-end e back-end
 
-- codigo da tela de cadastro
+- Front-End da tela de cadastro
 ![App Screenshot](https://i.ibb.co/BVzf2xh/Front-cadastro.png)
 
-- codigo do backend da tela de cadastro
+- Back-End da tela de cadastro
 ![App Screenshot](https://i.ibb.co/H7xXkFZ/back-cadastro.png)
