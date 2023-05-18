@@ -19,8 +19,8 @@ VSCode, Git, Github, Diagram.net, HeidiSQL
 ##  Banco de Dados
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) 
-## Estrutura de pastas
 
+## Estrutura das Pastas usadas
 ![App Screenshot](https://i.ibb.co/FbSwFq0/estrutura-de-pasta-motor-deal.png)
 
 ## Telas de login - Front-end e back-end
